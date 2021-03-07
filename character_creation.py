@@ -19,10 +19,12 @@ while q2 != "a" and q2 != "b":
         char_class = 'Bard'
         print("You chose a Bard.")
 
+
 # Checking stats command
 
-def stats("char_name", "char_class"):
+def stats(char_name, char_class):
     if char_class == "Fighter":
+        print("You are " + char_name)
         print("Your a Fighter :")
         print(" ")
         print("Stats")
@@ -33,6 +35,7 @@ def stats("char_name", "char_class"):
         print("Wis: 10")
         print("Chr: 8")
     elif char_class == 'Bard':
+        print("You are " + char_name)
         print("Your a Bard :")
         print(" ")
         print("Stats")
@@ -42,3 +45,6 @@ def stats("char_name", "char_class"):
         print("Int: 12")
         print("Wis: 10")
         print("Chr: 8")
+
+
+stats(char_name, char_class)
