@@ -1,0 +1,59 @@
+Character Sheet
+
+Fighter
+	Hit Dice: 1d10 per Fighter level
+	Hit Points @level 1: 10 + Con modifier
+	Hit Points at higher levels: 1d10 (or6) +your Con Modifier per bard level
+
+	Starting Wealth:
+		5d4 X 10 gp
+		
+	EQ:
+		50gp chainmail or 
+		10gp leather
+		50gp longbow 1d8 piercing
+			1gp (20) arrows
+		a martial weappon
+			10gp Battleaxe 1d8 slashing
+			15gp longsword 1d8 slashing
+			and a
+				10gp shield 
+					or two martial weapons
+						10gp short sword 1d6 piercing
+		25gp light crossbow 1d8 piercing
+			1gp (20) bolts
+			or two 5gp hand axes 1d6 slashing
+		a dungeoneer's pack or an explorer's pack
+	
+	Bonuses:
+		+2 ranged weapons
+		+1 AC when wearing armor
+		+2 Duel weild to damage rolls
+			if you roll 1 or 2 can reroll but must take second roll
+		
+		
+
+Bard:
+	Hit Dice: 1d8 per bard level.
+	Hit Points @level 1: 8+ CON modifier
+	Hit Points at higher levels: 1d8 (or5) +your Con Modifier per bard level
+
+	Starting Wealth:
+		5d4 X 10 gp
+		
+	EQ:
+		25gp rapier 1d8 piercing
+		15gp longsword 1d8 slashing
+		diplomats pack
+		entertainers pack
+		lute
+		other musical instrument
+		10gp leather armor
+		2gp dagger
+	
+	Cantrips:
+		light
+		Vicious Mockery
+			
+	Spells:
+		cure wounds
